@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/InshortsClone/static/css/main.9ed80d9d.css",
+    "main.js": "/InshortsClone/static/js/main.0b283b78.js",
+    "static/media/logo.svg": "/InshortsClone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/InshortsClone/index.html",
+    "main.9ed80d9d.css.map": "/InshortsClone/static/css/main.9ed80d9d.css.map",
+    "main.0b283b78.js.map": "/InshortsClone/static/js/main.0b283b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed80d9d.css",
+    "static/js/main.0b283b78.js"
+  ]
+}
